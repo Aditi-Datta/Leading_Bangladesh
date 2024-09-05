@@ -1,0 +1,18 @@
+.bodyBackground {
+  background-color: #ffffff;
+}
+
+.ServicesBtn{
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+
+.backgroundColorNavbar {
+  background-color:  #f2eded;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  /* padding: 10px 20px; */
+  z-index: 1000;
+}
